@@ -19,7 +19,7 @@ Hotel Management Application Overview This is a comprehensive hotel management a
 
   Booking Management: View and manage all bookings.
 
-  User Management:View and delete users
+  User Management: View and delete users
 ```
 
  ## Security
